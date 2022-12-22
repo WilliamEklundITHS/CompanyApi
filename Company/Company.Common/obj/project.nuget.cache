@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nSqsVR0TtpEwrpXe7lZjxkrtbYPJSjqOyg4ynLwyOPIICmkfTduBJTQGXpaE/eIN1FZlOncI4FF5GVkDqegbrg==",
+  "dgSpecHash": "QTHHqXGHwYvDo0QrlGOjmQkqypV2OPzPONs8nygUz++ERRqSbJ4GxROj7tR7xkCckPUU9xr9o/BKexfu/pW4zQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\Company-uppgift\\Company\\Company.Common\\Company.Common.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Source\\Repos\\CompanyApi\\Company\\Company.Common\\Company.Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
